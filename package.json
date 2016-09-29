@@ -2,7 +2,10 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "co": "^4.6.0",
+    "connect-flash": "^0.1.1",
     "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "indicative": "^2.2.0",
     "jimp": "^0.2.27",
     "nedb": "^1.8.0",
     "nedb-promise": "^2.0.0",
